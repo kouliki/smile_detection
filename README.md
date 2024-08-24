@@ -45,7 +45,7 @@ Follow these steps to use the Smile Detection app:
    
 3. **View Results**: The processed image will be displayed with rectangles around detected faces and smiles, allowing you to see where smiles have been identified.
 
-4. **Download Processed Image**: If you want to save the results, there will be an option to download the processed image with the detected smiles highlighted.
+
 
 
 
