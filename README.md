@@ -12,7 +12,7 @@ Welcome to the Smile Detection Project! This project uses computer vision techni
 
 Try out the smile detection app live: [Live Demo](link-to-your-hosted-app)
 
-![Smile Detection Demo](link-to-demo-image-or-gif)
+![Smile Detection Demo]()
 
 ## How It Works
 
@@ -30,3 +30,22 @@ To run this project locally, you'll need to have Python installed. Follow the st
    ```bash
    git clone https://github.com/yourusername/smile-detection.git
    cd smile-detection
+
+1. Installation:
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+
+Follow these steps to use the Smile Detection app:
+
+1. **Upload an Image**: Once the app is running, use the file uploader provided on the Streamlit interface to upload an image.
+   
+2. **Detect Smiles**: After uploading, the app will automatically process the image and detect faces and smiles using the trained Haar Cascade classifiers.
+   
+3. **View Results**: The processed image will be displayed with rectangles around detected faces and smiles, allowing you to see where smiles have been identified.
+
+4. **Download Processed Image**: If you want to save the results, there will be an option to download the processed image with the detected smiles highlighted.
+
+
+
