@@ -6,11 +6,8 @@ Welcome to the Smile Detection Project! This project uses computer vision techni
 
 - **Smile Detection**: Automatically detects and highlights smiles in an uploaded image.
 - **Easy to Use**: Simple user interface built with Streamlit for quick testing.
-- **Pre-trained Models**: Uses OpenCV's pre-trained Haar Cascade classifiers for face and smile detection.
+- **Pre-trained Models**: OpenCV's pre-trained Haar Cascade classifiers are used for face and smile detection.
 
-## Demo
-
-Try out the smile detection app live: [Live Demo](link-to-your-hosted-app)
 
 ![Smile Detection Demo]()
 
