@@ -21,20 +21,20 @@
         header {
             background: #333;
             color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #0779e4 3px solid;
+            padding: 20px 0;
             text-align: center;
+            border-bottom: #0779e4 3px solid;
         }
         header h1 {
-            text-transform: uppercase;
             margin: 0;
-            font-size: 24px;
+            font-size: 2em;
         }
         #main-content {
             padding: 20px;
             background: #fff;
-            margin-top: 10px;
+            margin-top: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         footer {
             background: #333;
@@ -62,13 +62,21 @@
             max-width: 100%;
             height: auto;
             margin: 10px 0;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
         }
-        ul {
-            list-style-type: none;
-            padding: 0;
+        ul, ol {
+            padding-left: 20px;
+            margin: 10px 0;
         }
-        ul li {
-            padding: 5px 0;
+        li {
+            margin-bottom: 10px;
+        }
+        pre {
+            background: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
         }
     </style>
 </head>
@@ -149,4 +157,3 @@ cd smile-detection</code></pre>
     </footer>
 </body>
 </html>
-
