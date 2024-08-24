@@ -9,7 +9,7 @@ Welcome to the Smile Detection Project! This project uses computer vision techni
 - **Pre-trained Models**: OpenCV's pre-trained Haar Cascade classifiers are used for face and smile detection.
 
 
-![Smile Detection Demo]()
+
 
 ## How It Works
 
